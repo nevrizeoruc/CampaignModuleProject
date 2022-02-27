@@ -1,0 +1,17 @@
+C:\Users\nergis\source\repos\TestCampaignModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nergis\source\repos\TestCampaignModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nergis\source\repos\TestCampaignModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nergis\source\repos\TestCampaignModule\bin\Debug\TestCampaignModule.dll
+C:\Users\nergis\source\repos\TestCampaignModule\bin\Debug\TestCampaignModule.pdb
+C:\Users\nergis\source\repos\TestCampaignModule\bin\Debug\CampaignModule.exe
+C:\Users\nergis\source\repos\TestCampaignModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nergis\source\repos\TestCampaignModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nergis\source\repos\TestCampaignModule\bin\Debug\CampaignModule.pdb
+C:\Users\nergis\source\repos\TestCampaignModule\bin\Debug\CampaignModule.exe.config
+C:\Users\nergis\source\repos\TestCampaignModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nergis\source\repos\TestCampaignModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nergis\source\repos\TestCampaignModule\obj\Debug\TestCampaignModule.csprojAssemblyReference.cache
+C:\Users\nergis\source\repos\TestCampaignModule\obj\Debug\TestCampaignModule.csproj.CoreCompileInputs.cache
+C:\Users\nergis\source\repos\TestCampaignModule\obj\Debug\TestCampaignModule.csproj.CopyComplete
+C:\Users\nergis\source\repos\TestCampaignModule\obj\Debug\TestCampaignModule.dll
+C:\Users\nergis\source\repos\TestCampaignModule\obj\Debug\TestCampaignModule.pdb
